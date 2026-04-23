@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" pages="2">
+<mxfile host="app.diagrams.net">
   <diagram name="Compras-Concetual" id="6Fda9sKoRBip7XU1nulY">
-    <mxGraphModel dx="1976" dy="1075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2823" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -688,14 +688,6 @@
         <mxCell id="Tiqni6pmsRuN6XXYqUkB-258" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Desafios:" vertex="1">
           <mxGeometry height="30" width="60" x="264" y="3680" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="I4BMm81JZJgTvxWcnT3a" name="Página-2">
-    <mxGraphModel dx="988" dy="591" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
